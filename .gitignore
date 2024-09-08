@@ -1,0 +1,36 @@
+# Emacs backup files
+*~
+\#*\#
+.\#*
+
+# Emacs auto-save files
+*.saves
+*.swp
+*.swo
+
+# Emacs directory variables
+.dir-locals.el
+
+# Emacs Tramp files
+.tramp
+
+# Emacs project files
+.projectile
+.project
+
+# Emacs session files
+.emacs.desktop
+.emacs.desktop.lock
+
+# Emacs auto-save-list files
+auto-save-list/
+
+# Emacs eshell history
+.eshell/history
+.eshell/lastdir
+
+# Emacs bookmarks
+.bookmarks
+
+# Emacs custom file
+custom.el
